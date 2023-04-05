@@ -1,0 +1,2 @@
+#!/bin/sh
+foot -e nano ~/.config/hypr/cheatsheet.md
